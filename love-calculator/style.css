@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    margin-top: 100px;
+  }
+  
+  input {
+    padding: 10px;
+    margin: 10px;
+    font-size: 16px;
+    width: 200px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #ff5e6c;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .result {
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
